@@ -1,0 +1,16 @@
+# Example Site settings
+
+google_analytics: G-1M61H9Y4PN
+
+header_pages:
+  - index.md
+  - 4eso.md
+  - about.md
+
+footer: 'Sigueme en <a href="https://twitter.com/toomas_ps">twitter</a>'
+
+style: # dark (default) or light
+listen_for_clients_preferred_style: true # true or false (default)
+
+plugins:
+  - jekyll-seo-tag

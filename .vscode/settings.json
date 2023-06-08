@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.ino": "arduino",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    },
+    "cSpell.words": [
+        "auxilios",
+        "marp",
+        "Presentacion"
+    ]
+}
